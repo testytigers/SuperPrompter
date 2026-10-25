@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.superprompter.domain.ScriptLinesTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-23T01:50:34" hostname="yahyas-Mac-mini.local" time="0.006">
+  <properties/>
+  <testcase name="paragraphs are split into sentences" classname="com.superprompter.domain.ScriptLinesTest" time="0.005"/>
+  <testcase name="empty script has no cards" classname="com.superprompter.domain.ScriptLinesTest" time="0.0"/>
+  <testcase name="arabic question mark ends a sentence" classname="com.superprompter.domain.ScriptLinesTest" time="0.0"/>
+  <testcase name="text without punctuation is a single card" classname="com.superprompter.domain.ScriptLinesTest" time="0.0"/>
+  <testcase name="with sentence splitting off, lines stay exactly as typed" classname="com.superprompter.domain.ScriptLinesTest" time="0.001"/>
+  <testcase name="each typed line becomes a card and blank lines are skipped" classname="com.superprompter.domain.ScriptLinesTest" time="0.0"/>
+  <testcase name="list numbers are not cut off from their item" classname="com.superprompter.domain.ScriptLinesTest" time="0.0"/>
+  <testcase name="closing quotes stay with their sentence" classname="com.superprompter.domain.ScriptLinesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

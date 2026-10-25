@@ -1,0 +1,7 @@
+10-19 20:08:01.214 13180 13196 I TestRunner: started: scriptsAreListedMostRecentlyEditedFirst(com.superprompter.data.db.ScriptDaoTest)
+10-19 20:08:01.214  1390  1441 I RFSD    : [RfsService::Nv] CsumUpdate
+10-19 20:08:01.214  1390  1441 I RFSD    : [RfsService::Nv] CsumCalc
+10-19 20:08:01.225  1236  1263 I shamp   : Modem: [PowerThermal] [RFSD] Flush Registry to Flash. fileName: ../../../HIU/HIC/MTI/Code/Src/mtiCommon.c, lineNum: 1169, nvId: 510, nvName: NASU.IND.FILTER, EfsSyncCount: 1689, actualCP2APCount: 533
+10-19 20:08:01.225  1390  1441 I RFSD    : [RfsService::Nv] ProcessMessage : RFS_OP_STATUS
+10-19 20:08:01.225  1390  1441 I RFSD    : [RfsService::Nv] ProcessMessage : RFS_STATUS_SUCCESS
+10-19 20:08:01.348 13180 13196 I TestRunner: finished: scriptsAreListedMostRecentlyEditedFirst(com.superprompter.data.db.ScriptDaoTest)

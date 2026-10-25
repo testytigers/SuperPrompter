@@ -1,0 +1,7 @@
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.prompter.PrompterViewModel
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.prompter.PrompterViewModel
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.scripts.ScriptListViewModel
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.scripts.ScriptListViewModel
+-keep,allowobfuscation,allowshrinking class com.superprompter.ui.editor.EditorViewModel

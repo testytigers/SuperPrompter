@@ -1,0 +1,526 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e396a581bceb4ce4637e4b14dccf68c3/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/a1e5e726501064f2ab4c9a1c2b7f389f/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/722791dde8f4a483f4019d978f9e7afc/transformed/navigation-common-2.8.8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/9e420b4e05696fbb9096f6fb216d1a9d/transformed/navigation-runtime-2.8.8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/dad5bc46654f56df5bc2e20a6f345f67/transformed/navigation-common-ktx-2.8.8/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/79c57ffa3118240c30a12847b5a70fef/transformed/navigation-runtime-ktx-2.8.8/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/f8507b713362f4e5449dc4c3c921981e/transformed/navigation-compose-2.8.8/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.54] /Users/yahya/.gradle/caches/8.11.1/transforms/a4c465f994abb3ae019ead4378e22025/transformed/hilt-android-2.54/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.camera:camera-video:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/1287b71c1bc255475bec9214a29c29b1/transformed/camera-video-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/b65ec1882ae0f7b67ad0402a2b658632/transformed/camera-lifecycle-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/bbc15b273b5ed1da206a10f302df5934/transformed/camera-view-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/99104b2b0020aa8d076255791b094400/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yahya/.gradle/caches/8.11.1/transforms/304e421de1e53205ff27ad14dcd78599/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/yahya/.gradle/caches/8.11.1/transforms/65670ae561a80adf00322ff490f4874c/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/cd3bdc0e195ba4829ce7748120cebafc/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/29fef042676cf98ca2560a2017b3cc78/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/f36b912c00a9f0f0c25ffb8dfb99b143/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/a593410e3e8fd75a42c40f25f91fc15c/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/703d8d914f81ded968c1b11b2da72710/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/a81999ee2af1958046903cd7c005311b/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/8c33c08c251d8643fb486c7a1620493d/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/c71022858deb0033c21104cd297f855a/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/e000d2b42535d27a4d0b1d5b5d740e1d/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/8ae40da10b76886f4e798cd319d8b340/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/4ded4f4519ad2aa8e1477c965f77f342/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/87234c86ab86ee44d2750ea44a837d17/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/21b980d14f8a8d7d9117969358b65dc1/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/68104191efcdbb13e0f1a71e3bcb8f5f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/abcdc1ba3d3da6e3f9c4bb585d1d024d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/cd0842be060dd377c671023073a3f626/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/dbc52d9f885cb9717828ff54bc5e18f1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/00afd08b4844a9a6bb6eb635fe9b5b8b/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/yahya/.gradle/caches/8.11.1/transforms/f5f47309a16ce02a739f84f69ac7a5f1/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/bbd2a732f48435b58ee3e7b83811e90b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/f1d80892da14a32a15e360d08c37e0ed/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/2d2e8c4dc2ad7192991170529bbfeaa4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yahya/.gradle/caches/8.11.1/transforms/ef793f8489e2372ef3fe3af464028d50/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yahya/.gradle/caches/8.11.1/transforms/7f500ce9bb5b37dd4c31142176cd7776/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/fec21848dcf484fc060e76421049da2c/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/870f8097308c15ae0697d6c694f06f32/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/0e647fac7572973c98a50b3177057a43/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/78b57b4e0dc12599f59d18c9c7b9a93a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/9e5c87b2e6ce5c40e872b577c99486c8/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/4a50f3ac2647e64a03b7e0484930fb27/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/c296795b539b01dbc709bd1e152b3aba/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/e19de3da420006fe8b5df9780134301b/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/de951a98a42328f4f3893df19fa3727c/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/77ee7c4e44f7c23d92060ed67b9e0fc5/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/b82a3941d14e8dc79328a4b1aad588a9/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/2efd86a16cdfa0505ffda52bee8f8c34/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/392ef5992c8c9191d8dbd447177cc46f/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/79c4c2d5446b07559df785aaec08d45c/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/0126ff7104aa2eedefc8cace6b4d4cad/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/6db4bbe73e318385071aa159a6fa2d64/transformed/activity-1.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/4d83e602ce2d921d1c941f87ce49e45b/transformed/activity-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/efecc7ee93a4c64468539f3603e8194a/transformed/activity-compose-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/d36de175fe3261bff635917acb8f4c03/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/99d97bb3e1dff48a333b9dc2d2d2aeba/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/08ebd04dcf9ead3a3d58873f6595e641/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/4c3e26b15ef9edcb204e79b5d249fbfe/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/083a2792cb1f67d2a230ebab8a566541/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/cb622f8a16a84f58ef8370addc0234bf/transformed/datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/b469a53618ce4951e5fee7a0922376f2/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/85ef0c5322aa870b9ee135243864e754/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/9bed9060ba9706b75fdbd3d7c550c438/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/43242a9f5f147b25031473ab9771b7d5/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/b3426cb28f897571d85aab5a2e976be1/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/2e6592d5528719e9785b342f9663385b/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/4869bc8de188d549b309f12e9f6d6365/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/3cefb2ca6cfbce5ccadb836e9f716a68/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/yahya/.gradle/caches/8.11.1/transforms/60146236fd2f5fb23e9fa671f0d0a1c5/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/8fb044eb13814bb3155aaaf9c15c6c62/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/623b580340760c51b404c2b23f313735/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/86317290602ec3c013afbfd890ddd89f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.54] /Users/yahya/.gradle/caches/8.11.1/transforms/76ee61881da418a406d8a20ba6a18ed0/transformed/dagger-lint-aar-2.54/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.any
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:7:9-51
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:13:5-15:38
+	android:maxSdkVersion
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:15:9-35
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:14:9-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:18:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:19:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:20:5-89
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:20:22-86
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:21:5-77
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:21:22-74
+application
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:23:5-54:19
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:23:5-54:19
+MERGED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/623b580340760c51b404c2b23f313735/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/623b580340760c51b404c2b23f313735/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:27:9-54
+	tools:targetApi
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:30:9-29
+	android:icon
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:24:9-41
+activity#com.superprompter.MainActivity
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:33:9-43:20
+	android:windowSoftInputMode
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:38:13-55
+	android:exported
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:36:13-36
+	android:configChanges
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:35:13-106
+	android:theme
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:41:27-74
+service#com.superprompter.overlay.FloatingPrompterService
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:47:13-37
+	android:foregroundServiceType
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:46:13-60
+property#android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE
+ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:49:13-51:112
+	android:value
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:51:17-109
+	android:name
+		ADDED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml:50:17-76
+uses-sdk
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e396a581bceb4ce4637e4b14dccf68c3/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e396a581bceb4ce4637e4b14dccf68c3/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/a1e5e726501064f2ab4c9a1c2b7f389f/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/a1e5e726501064f2ab4c9a1c2b7f389f/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/722791dde8f4a483f4019d978f9e7afc/transformed/navigation-common-2.8.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/722791dde8f4a483f4019d978f9e7afc/transformed/navigation-common-2.8.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/9e420b4e05696fbb9096f6fb216d1a9d/transformed/navigation-runtime-2.8.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/9e420b4e05696fbb9096f6fb216d1a9d/transformed/navigation-runtime-2.8.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/dad5bc46654f56df5bc2e20a6f345f67/transformed/navigation-common-ktx-2.8.8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/dad5bc46654f56df5bc2e20a6f345f67/transformed/navigation-common-ktx-2.8.8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/79c57ffa3118240c30a12847b5a70fef/transformed/navigation-runtime-ktx-2.8.8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/79c57ffa3118240c30a12847b5a70fef/transformed/navigation-runtime-ktx-2.8.8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/f8507b713362f4e5449dc4c3c921981e/transformed/navigation-compose-2.8.8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.8] /Users/yahya/.gradle/caches/8.11.1/transforms/f8507b713362f4e5449dc4c3c921981e/transformed/navigation-compose-2.8.8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.54] /Users/yahya/.gradle/caches/8.11.1/transforms/a4c465f994abb3ae019ead4378e22025/transformed/hilt-android-2.54/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.54] /Users/yahya/.gradle/caches/8.11.1/transforms/a4c465f994abb3ae019ead4378e22025/transformed/hilt-android-2.54/AndroidManifest.xml:18:3-42
+MERGED from [androidx.camera:camera-video:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/1287b71c1bc255475bec9214a29c29b1/transformed/camera-video-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/1287b71c1bc255475bec9214a29c29b1/transformed/camera-video-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/b65ec1882ae0f7b67ad0402a2b658632/transformed/camera-lifecycle-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/b65ec1882ae0f7b67ad0402a2b658632/transformed/camera-lifecycle-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/bbc15b273b5ed1da206a10f302df5934/transformed/camera-view-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/bbc15b273b5ed1da206a10f302df5934/transformed/camera-view-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/99104b2b0020aa8d076255791b094400/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/99104b2b0020aa8d076255791b094400/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yahya/.gradle/caches/8.11.1/transforms/304e421de1e53205ff27ad14dcd78599/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yahya/.gradle/caches/8.11.1/transforms/304e421de1e53205ff27ad14dcd78599/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/yahya/.gradle/caches/8.11.1/transforms/65670ae561a80adf00322ff490f4874c/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/yahya/.gradle/caches/8.11.1/transforms/65670ae561a80adf00322ff490f4874c/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/cd3bdc0e195ba4829ce7748120cebafc/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/cd3bdc0e195ba4829ce7748120cebafc/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/29fef042676cf98ca2560a2017b3cc78/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/29fef042676cf98ca2560a2017b3cc78/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/f36b912c00a9f0f0c25ffb8dfb99b143/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/f36b912c00a9f0f0c25ffb8dfb99b143/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/a593410e3e8fd75a42c40f25f91fc15c/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/a593410e3e8fd75a42c40f25f91fc15c/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/703d8d914f81ded968c1b11b2da72710/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/703d8d914f81ded968c1b11b2da72710/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/a81999ee2af1958046903cd7c005311b/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/a81999ee2af1958046903cd7c005311b/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/8c33c08c251d8643fb486c7a1620493d/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/8c33c08c251d8643fb486c7a1620493d/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/c71022858deb0033c21104cd297f855a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/c71022858deb0033c21104cd297f855a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/e000d2b42535d27a4d0b1d5b5d740e1d/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/e000d2b42535d27a4d0b1d5b5d740e1d/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/8ae40da10b76886f4e798cd319d8b340/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/8ae40da10b76886f4e798cd319d8b340/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/4ded4f4519ad2aa8e1477c965f77f342/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/4ded4f4519ad2aa8e1477c965f77f342/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/87234c86ab86ee44d2750ea44a837d17/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/87234c86ab86ee44d2750ea44a837d17/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/21b980d14f8a8d7d9117969358b65dc1/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/21b980d14f8a8d7d9117969358b65dc1/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/68104191efcdbb13e0f1a71e3bcb8f5f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/68104191efcdbb13e0f1a71e3bcb8f5f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/abcdc1ba3d3da6e3f9c4bb585d1d024d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/abcdc1ba3d3da6e3f9c4bb585d1d024d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/cd0842be060dd377c671023073a3f626/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/cd0842be060dd377c671023073a3f626/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/dbc52d9f885cb9717828ff54bc5e18f1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/dbc52d9f885cb9717828ff54bc5e18f1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/00afd08b4844a9a6bb6eb635fe9b5b8b/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/00afd08b4844a9a6bb6eb635fe9b5b8b/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/yahya/.gradle/caches/8.11.1/transforms/f5f47309a16ce02a739f84f69ac7a5f1/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/yahya/.gradle/caches/8.11.1/transforms/f5f47309a16ce02a739f84f69ac7a5f1/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/bbd2a732f48435b58ee3e7b83811e90b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/bbd2a732f48435b58ee3e7b83811e90b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/f1d80892da14a32a15e360d08c37e0ed/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/f1d80892da14a32a15e360d08c37e0ed/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/2d2e8c4dc2ad7192991170529bbfeaa4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yahya/.gradle/caches/8.11.1/transforms/2d2e8c4dc2ad7192991170529bbfeaa4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yahya/.gradle/caches/8.11.1/transforms/ef793f8489e2372ef3fe3af464028d50/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yahya/.gradle/caches/8.11.1/transforms/ef793f8489e2372ef3fe3af464028d50/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yahya/.gradle/caches/8.11.1/transforms/7f500ce9bb5b37dd4c31142176cd7776/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yahya/.gradle/caches/8.11.1/transforms/7f500ce9bb5b37dd4c31142176cd7776/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/fec21848dcf484fc060e76421049da2c/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/fec21848dcf484fc060e76421049da2c/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/870f8097308c15ae0697d6c694f06f32/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/870f8097308c15ae0697d6c694f06f32/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/0e647fac7572973c98a50b3177057a43/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/0e647fac7572973c98a50b3177057a43/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/78b57b4e0dc12599f59d18c9c7b9a93a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/78b57b4e0dc12599f59d18c9c7b9a93a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/9e5c87b2e6ce5c40e872b577c99486c8/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/9e5c87b2e6ce5c40e872b577c99486c8/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/4a50f3ac2647e64a03b7e0484930fb27/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/4a50f3ac2647e64a03b7e0484930fb27/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/c296795b539b01dbc709bd1e152b3aba/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/c296795b539b01dbc709bd1e152b3aba/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/e19de3da420006fe8b5df9780134301b/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/e19de3da420006fe8b5df9780134301b/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/de951a98a42328f4f3893df19fa3727c/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/de951a98a42328f4f3893df19fa3727c/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/77ee7c4e44f7c23d92060ed67b9e0fc5/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/77ee7c4e44f7c23d92060ed67b9e0fc5/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/b82a3941d14e8dc79328a4b1aad588a9/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/b82a3941d14e8dc79328a4b1aad588a9/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/2efd86a16cdfa0505ffda52bee8f8c34/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/2efd86a16cdfa0505ffda52bee8f8c34/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/392ef5992c8c9191d8dbd447177cc46f/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/392ef5992c8c9191d8dbd447177cc46f/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/79c4c2d5446b07559df785aaec08d45c/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/79c4c2d5446b07559df785aaec08d45c/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/0126ff7104aa2eedefc8cace6b4d4cad/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/0126ff7104aa2eedefc8cace6b4d4cad/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/6db4bbe73e318385071aa159a6fa2d64/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/6db4bbe73e318385071aa159a6fa2d64/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/4d83e602ce2d921d1c941f87ce49e45b/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/4d83e602ce2d921d1c941f87ce49e45b/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/efecc7ee93a4c64468539f3603e8194a/transformed/activity-compose-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/yahya/.gradle/caches/8.11.1/transforms/efecc7ee93a4c64468539f3603e8194a/transformed/activity-compose-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/d36de175fe3261bff635917acb8f4c03/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/d36de175fe3261bff635917acb8f4c03/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/99d97bb3e1dff48a333b9dc2d2d2aeba/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/99d97bb3e1dff48a333b9dc2d2d2aeba/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/08ebd04dcf9ead3a3d58873f6595e641/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/08ebd04dcf9ead3a3d58873f6595e641/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/4c3e26b15ef9edcb204e79b5d249fbfe/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/4c3e26b15ef9edcb204e79b5d249fbfe/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/083a2792cb1f67d2a230ebab8a566541/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/083a2792cb1f67d2a230ebab8a566541/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/cb622f8a16a84f58ef8370addc0234bf/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.2] /Users/yahya/.gradle/caches/8.11.1/transforms/cb622f8a16a84f58ef8370addc0234bf/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/b469a53618ce4951e5fee7a0922376f2/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/b469a53618ce4951e5fee7a0922376f2/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/85ef0c5322aa870b9ee135243864e754/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/85ef0c5322aa870b9ee135243864e754/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/9bed9060ba9706b75fdbd3d7c550c438/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/9bed9060ba9706b75fdbd3d7c550c438/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/43242a9f5f147b25031473ab9771b7d5/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/43242a9f5f147b25031473ab9771b7d5/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/b3426cb28f897571d85aab5a2e976be1/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/b3426cb28f897571d85aab5a2e976be1/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/2e6592d5528719e9785b342f9663385b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/2e6592d5528719e9785b342f9663385b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/4869bc8de188d549b309f12e9f6d6365/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/4869bc8de188d549b309f12e9f6d6365/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/3cefb2ca6cfbce5ccadb836e9f716a68/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yahya/.gradle/caches/8.11.1/transforms/3cefb2ca6cfbce5ccadb836e9f716a68/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/yahya/.gradle/caches/8.11.1/transforms/60146236fd2f5fb23e9fa671f0d0a1c5/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/yahya/.gradle/caches/8.11.1/transforms/60146236fd2f5fb23e9fa671f0d0a1c5/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/8fb044eb13814bb3155aaaf9c15c6c62/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/8fb044eb13814bb3155aaaf9c15c6c62/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/623b580340760c51b404c2b23f313735/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/623b580340760c51b404c2b23f313735/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/86317290602ec3c013afbfd890ddd89f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yahya/.gradle/caches/8.11.1/transforms/86317290602ec3c013afbfd890ddd89f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.54] /Users/yahya/.gradle/caches/8.11.1/transforms/76ee61881da418a406d8a20ba6a18ed0/transformed/dagger-lint-aar-2.54/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.54] /Users/yahya/.gradle/caches/8.11.1/transforms/76ee61881da418a406d8a20ba6a18ed0/transformed/dagger-lint-aar-2.54/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yahya/Documents/SuperPrompter/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/479c3f0ea422caec43e2c7fce8c84db9/transformed/camera-core-1.4.1/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.4.1] /Users/yahya/.gradle/caches/8.11.1/transforms/8edad040c9b6c9a606aca1be553639c9/transformed/camera-camera2-1.4.1/AndroidManifest.xml:31:17-103
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/dc1c7ca8a2a9324464a3809aa8b20d32/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yahya/.gradle/caches/8.11.1/transforms/fc808b56930e0241248ce516435280a2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yahya/.gradle/caches/8.11.1/transforms/ae0e34887afd36701c2c64efbf71aee9/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.superprompter.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.superprompter.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/yahya/.gradle/caches/8.11.1/transforms/e95ce38c2cb926bf3c3ee7446b548d3c/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/yahya/.gradle/caches/8.11.1/transforms/7e01ccf2a12b225b01ecd6c2f5559bdb/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] /Users/yahya/.gradle/caches/8.11.1/transforms/92a21b0647733cda1eb2d951b0eb1c08/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/yahya/.gradle/caches/8.11.1/transforms/15d4cd0a29af465ab9a7471e682346cb/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/yahya/.gradle/caches/8.11.1/transforms/b49890522e27cf82d6620734360c7d0d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

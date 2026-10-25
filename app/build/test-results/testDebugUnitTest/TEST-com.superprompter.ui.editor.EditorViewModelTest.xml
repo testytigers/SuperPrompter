@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.superprompter.ui.editor.EditorViewModelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-23T01:50:34" hostname="yahyas-Mac-mini.local" time="0.57">
+  <properties/>
+  <testcase name="first save assigns an id and later saves update the same script" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.562"/>
+  <testcase name="deleting cancels a pending autosave so the script stays deleted" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.002"/>
+  <testcase name="flush saves immediately without waiting for autosave" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.001"/>
+  <testcase name="typing autosaves after a short pause" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.001"/>
+  <testcase name="rapid edits are debounced into a single save" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.002"/>
+  <testcase name="an empty new script is never saved" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.001"/>
+  <testcase name="opening an existing script loads it and keeps its created date" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.001"/>
+  <testcase name="blank title is saved as Untitled script" classname="com.superprompter.ui.editor.EditorViewModelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

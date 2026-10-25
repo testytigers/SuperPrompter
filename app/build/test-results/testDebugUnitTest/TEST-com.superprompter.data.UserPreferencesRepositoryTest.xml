@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.superprompter.data.UserPreferencesRepositoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-23T01:50:33" hostname="yahyas-Mac-mini.local" time="0.071">
+  <properties/>
+  <testcase name="prompter size cycles full, half, third, quarter, fifth" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.018"/>
+  <testcase name="fresh install returns defaults" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.021"/>
+  <testcase name="values are saved and read back" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.017"/>
+  <testcase name="prompter mode and sentence splitting are saved" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.003"/>
+  <testcase name="active script id can be set and cleared" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.002"/>
+  <testcase name="prompter size is saved and defaults to full screen" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.003"/>
+  <testcase name="out of range values are clamped" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.004"/>
+  <testcase name="floating prompter never goes full screen" classname="com.superprompter.data.UserPreferencesRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
